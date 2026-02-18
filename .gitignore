@@ -17,3 +17,6 @@ logs/
 
 # Mac system files
 .DS_Store
+weather.json
+
+
